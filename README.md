@@ -43,9 +43,9 @@ Hackathons are events where individuals or teams come together to brainstorm, co
 
 ## Contact Us
 Have questions or need assistance? Feel free to reach out to us:
-- **Email:** [hackathon@example.com](mailto:hackathon@example.com)
-- **Twitter:** [@HackathonOrg](https://twitter.com/HackathonOrg)
-- **GitHub:** [HackathonOrg](https://github.com/HackathonOrg)
+- **Email:** [Email](mailto:rg410345@gmail.com)
+- **Twitter:** [Twitter](https://twitter.com/Rachit_goyal246)
+- **GitHub:** [Github](https://github.com/rachit-goyal1071)
 
 ## Rules
 - Participants must adhere to the hackathon's code of conduct.
